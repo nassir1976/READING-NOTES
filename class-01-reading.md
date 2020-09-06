@@ -1,3 +1,7 @@
+
+[*Home*](https://nassir1976.github.io/reading-notes/)
+
+
 # Growth Midset
 
 - Growth mindset is the growth Of mind by **education** or **work expriences** to face chalanges, obstacles and also the growth of mind to accept criticism.
