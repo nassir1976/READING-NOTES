@@ -1,3 +1,7 @@
 # Class 102 - Reading-notes
 
-- [*Reading 01*](https://github.io/nassir1976/reading-notes/class-01-reading)
+                      Reading Notes
+
+
+- [*Reading 01*](https://nassir1976.github.io/reading-notes/class-01-reading)
+
