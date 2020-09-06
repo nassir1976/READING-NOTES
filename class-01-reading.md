@@ -11,4 +11,4 @@
 
 ## About me
 
-* Hello! My name is Nassir Abegaz, Based in Seattle Washington. I am originally from Ethiopia. I have a background in civil engineering and currently, I am working as self-employed in the transportation business. I have been interested in studying software development while I was spending time with former Code Fellows students. Then to achieve this interest, I decided to join Code Fellows. For the future, I have a plan to continue studying all the courses and will take any possibilities to be a better developer.
+* Hello! My name is Nassir Abegaz, Based in Seattle Washington. I am originally from Ethiopia. I have a background in civil engineering and currently, I am working as self-employed in the transportation business. I have been interested in studying software development while I was spending time with former Code Fellows students. Then to achieve this interest, I decided to join Code Fellows. For the future, I have a plan to continue studying all the courses and will take any possibilities to be a better developer. 
