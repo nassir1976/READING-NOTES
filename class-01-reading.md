@@ -4,14 +4,14 @@
 
 # Growth Midset
 
-- Growth mindset is the growth Of mind by **education** or **work expriences** to face ~~chalanges~~, obstacles and also the growth of mind to accept criticism.
+- Growth mindset is the growth Of mind by **education** or **work expriences** to face chalanges, obstacles and also the growth of mind to accept criticism.
 
 
 ### Three reminders on how to keep myself in a growth mindset.
 
-1. Be open mind
-2. To try different learning tactics
-3. Views challenges as opportunities
+1. ***Be open mind***
+2. ***To try different learning tactics***
+3. ***Views challenges as opportunities***
 
 ## About me
 
