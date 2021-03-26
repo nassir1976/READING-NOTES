@@ -8,7 +8,7 @@
 
 
 - [*Code102 - Intro to Software Development*](https://github.com/nassir1976/reading-notes.git/)
-- 
+
 - [*Code 201 - Foundations of Software Development*](https://github.com/nassir1976/reading-notes.git/)
 
 - [*Code 301 - Intermediate Software Development*](https://github.com/nassir1976/reading-notes.git/)
