@@ -2,7 +2,7 @@
 
 
 
-[*HOME*](https://https://nassir1976.github.io/reading-notes//)
+[*HOME*](https://nassir1976.github.io/reading-notes//)
 
 - [*Code102 - Intro to Software Development*](https://github.com/nassir1976/reading-notes.git/)
 
