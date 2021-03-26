@@ -1,24 +1,21 @@
 
-- [*Reading 01*](https://nassir1976.github.io/reading-notes/class-01-reading)
 
 ## Readnote-09
 
- ## Reading: Stacks and Queues
- ### What is a Stack?
-- A stack is a data structure that consists of nodes. Each node references the next node in stack but not reference to it’s previous.
- ### Terms:
- ### push
-- the method used to put nodes or items to the stack
- ### pop
-- the method used to remove nodes or items from the stack
-you can’t pop an empty stack
-### top
-- it’s the top of the stack
- ### peek
-- When you peek you will view the value of the top Node in the stack. When you attempt to peek an empty stack an exception will be raised.
- ### is Empty
-- returns true when stack is empty otherwise return false
-For all four methods the Big O notation is O(1)
+
+[*HOME*](https://nassir1976.github.io/reading-notes/)
+
+
+
+
+- [*Code102 - Intro to Software Development*](https://github.com/nassir1976/reading-notes.git/)
+
+- [*Code 201 - Foundations of Software Development*](https://github.com/nassir1976/reading-notes.git/)
+
+- [*Code 301 - Intermediate Software Development*](https://github.com/nassir1976/reading-notes.git/)
+
+- [*Code 401 - Advanced Software Development*](https://github.com/nassir1976/reading-notes.git/)
+
 
  ### stack concepts
  ### FILO first in last out
