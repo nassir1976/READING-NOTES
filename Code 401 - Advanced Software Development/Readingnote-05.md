@@ -1,4 +1,7 @@
 
+[*HOME*](https://nassir1976.github.io/reading-notes/)
+## Readnote-05
+
 
  ### Implementation: Linked Lists
  #### What is a Linked List ?
