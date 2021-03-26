@@ -8,11 +8,11 @@
 
 
 
-- [*Code 201 - Foundations of Software Development*](https://nassir1976/reading-notes/)
+- [*Code 201 - Foundations of Software Development*](https://github.com/nassir1976/reading-notes/)
 
-- [*Code 301 - Intermediate Software Development*](https://nassir1976/reading-notes/)
+- [*Code 301 - Intermediate Software Development*](https://github.com/nassir1976/reading-notes/)
 
-- [*Code 401 - Advanced Software Development*](https://nassir1976/reading-notes/)
+- [*Code 401 - Advanced Software Development*](https://github.com/nassir1976/reading-notes/)
 
 
 
