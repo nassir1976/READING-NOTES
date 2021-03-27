@@ -16,6 +16,6 @@
 - [*Code 301 - Intermediate Software Development*](https://github.com/nassir1976/reading-notes.git/)
 
 - [*Code 401 - Advanced Software Development*](https://github.com/nassir1976/reading-notes.git/)
--  [*readingnote01*](https://github.com/nassir1976/reading-notes.git/Readingnote01)
+-  [*readingnote01*](https://github.com/nassir1976/reading-notes.git/Readingnote-01)
 
 
