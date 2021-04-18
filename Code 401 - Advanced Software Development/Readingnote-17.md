@@ -26,8 +26,15 @@
 
 ### Document the following Vocabulary Terms
 ### Term
-- FIFO Queue
-  - A FIFO queue is a queue that operates on a first-in, first-out (FIFO) principle. This means that the request (like a customer in a store or a print job sent to a printer) is processed in the order in which it arrives.
-
-- Pub/Sub
-  - Pub/sub is shorthand for publish/subscribe messaging, an asynchronous communication method in which messages are exchanged between applications without knowing the identity of the sender or recipient.
+- Server Instances
+    -  server instance is a collection of SQL Server databases which are run by a solitary SQL Server service or instance. The details of each server instance can be viewed on the service console which can be web-based or command-line based.
+- Containers
+     - A container is any receptacle or enclosure for holding a product used in storage, packaging, and transportation, including shipping.
+- Cloud Services
+     - Cloud services are services available via a remote cloud computing server rather than an on-site server. These scalable solutions are managed by a third party and provide users with access to computing services such as analytics or networking via the internet.
+- Cloud Architecture
+     - Cloud Architecture refers to the various components in terms of databases, software capabilities, applications, etc. engineered to leverage the power of cloud resources to solve business problems. Cloud architecture defines the components as well as the relationships between them. ... Cloud resources.
+- AWS
+     - Amazon Web Services (AWS) is the largest public cloud computing platform in the world and one of the pioneers of on-demand computing. AWS launched in 2006 with a simple queuing service for application developers and soon expanded to offer elastic compute, and simple storage services.
+     
+- EC2/Beanstalk vs Heroku
