@@ -27,6 +27,8 @@ unmounting
 
 4- What is wrong with the following code?
     -  the  loop it will cause infinite re-render .
+
+    
 TERMS:
 ### state hook
   - A Hook is a special function that lets you “hook into” React features. For example, useState is a Hook that lets you add React state to function components.
