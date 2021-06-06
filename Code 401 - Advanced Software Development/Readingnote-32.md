@@ -1,12 +1,9 @@
 [*HOME*](https://nassir1976.github.io/reading-notes/)
 
 ## Readnote-33 Custom  Hooks
-What does a component’s lifecycle refer to?
-Why do you sometimes need to “wrap” functions in useCallback when called from within useEffect
-Why are functional components preferred over class components?
-What is wrong with the following code?
 
-REVIEW, RESEARCH AND DISCUSS
+
+#### REVIEW, RESEARCH AND DISCUSS
 
 1- What does a component’s lifecycle refer to?
    - Each component in React has a lifecycle which you can monitor and manipulate during its three main phases. The three phases are:
