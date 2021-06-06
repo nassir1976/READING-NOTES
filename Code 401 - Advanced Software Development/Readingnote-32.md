@@ -26,9 +26,34 @@ unmounting
 
 
 4- What is wrong with the following code?
-    -  the  loop it will cause infinite re-render .
+           import React, {useState, useEffect} from 'react';
 
-    
+           function MyComponent(props) {
+           const [count, setCount] = useState(0);
+
+          function changeCount(e) {
+          setCount(e.target.value);
+          }
+
+          let renderedItems = []
+
+         for (let i = 0; i < count; i++) {
+         useEffect( () => {
+          console.log('component mount/update');
+         }, [count]);
+
+         renderedItems.push(<div key={i}>Item</div>);
+        }
+
+          return (<div>
+          <input type='number' value={count} onChange={changeCount}/>
+        {renderedItems}
+       </div>);
+       }
+
+- the  loop it will cause infinite re-render .
+
+
 TERMS:
 ### state hook
   - A Hook is a special function that lets you “hook into” React features. For example, useState is a Hook that lets you add React state to function components.
