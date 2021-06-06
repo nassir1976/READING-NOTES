@@ -1,6 +1,6 @@
 [*HOME*](https://nassir1976.github.io/reading-notes/)
 
-## Readnote-33  Hooks API
+## Readnote-33 Custom  Hooks
 What does a component’s lifecycle refer to?
 Why do you sometimes need to “wrap” functions in useCallback when called from within useEffect
 Why are functional components preferred over class components?
